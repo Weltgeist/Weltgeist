@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a control systems eng.(Matlab/Simulink/Speedgoat/ADO).I mainly do HVAC controls projects & R&D work. 
+- 🔭 I’m currently working as a control systems eng.(Matlab/Simulink/Speedgoat/ADO).I mainly do HVAC controls projects & R&D work.Previously worked the same job in aerospace. 
 - 💬 Ask me about robotics(Java,Python,C#). I do a lot of pro-bono robotics or I always have a personal robotics project going on.  
 - ⚡ Fun fact: I'm a cross-country cyclist & I have biked MTL-NYC, MTL-TORONTO, CLT-ATL, CLT-DC.
 - 🌱 I’m currently learning React.js.
