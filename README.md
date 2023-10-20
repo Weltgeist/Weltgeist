@@ -8,9 +8,9 @@ Public
 
 More 
 
-[![Weltgeist's GitHub stats](https://github-readme-stats-weltgeists-projects.vercel.app/api?username=Weltgeist)](https://github.com/Weltgeist/github-readme-stats)
+[![Weltgeist's GitHub stats](https://github-readme-stats-weltgeists-projects.vercel.app/api?username=Weltgeist&layout=compact&langs_count=8)](https://github.com/Weltgeist/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-weltgeists-projects.vercel.app/api/top-langs/?username=Weltgeist)](https://github.com/Weltgeist/github-readme-stats)
+[![Top Langs](https://github-readme-stats-weltgeists-projects.vercel.app/api/top-langs/?username=Weltgeist&layout=compact&langs_count=8)](https://github.com/Weltgeist/github-readme-stats)
 
 
 <!--
