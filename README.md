@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-Public
+- 🔭 I’m currently working as a control systems engineer(Matlab/Simulink/Speedgoat/ADO) and I mainly do HVAC controls projects & R&D work in my day to day! 
+- 💬 Ask me about robotics(Java,Python,C#). I do a lot of pro-bono robotics work or I always have a personal robotics project going on.  
+- 🌱 I’m currently learning React.js.
+- ⚡ Fun fact: I'm a cross-country cyclist & I have biked MTL-NYC, MTL-TORONTO, CLT-ATL, CLT-DC.
 
-[![Weltgeist's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weltgeist)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weltgeist)](https://github.com/anuraghazra/github-readme-stats)
-
-More 
-
-[![Weltgeist's GitHub stats](https://github-readme-stats-weltgeists-projects.vercel.app/api?username=Weltgeist&layout=compact&langs_count=8)](https://github.com/Weltgeist/github-readme-stats)
+[![Weltgeist's GitHub stats](https://github-readme-stats-weltgeists-projects.vercel.app/api?username=Weltgeist)](https://github.com/Weltgeist/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-weltgeists-projects.vercel.app/api/top-langs/?username=Weltgeist&layout=compact&langs_count=8)](https://github.com/Weltgeist/github-readme-stats)
 
