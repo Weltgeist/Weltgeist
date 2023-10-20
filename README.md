@@ -6,6 +6,7 @@ Public
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weltgeist)](https://github.com/anuraghazra/github-readme-stats)
 
+More 
 
 [![Weltgeist's GitHub stats](https://github-readme-stats-weltgeists-projects.vercel.app/api?username=Weltgeist)](https://github.com/Weltgeist/github-readme-stats)
 
