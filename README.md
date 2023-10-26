@@ -4,8 +4,7 @@
 - 💬 Ask me about robotics(Java,Python,C#). I do a lot of pro-bono robotics or I always have a personal robotics project going on.  
 - ⚡ Fun fact: I'm a cross-country cyclist & I have biked MTL-NYC, MTL-TORONTO, CLT-ATL, CLT-DC.
 - 🌱 I’m currently learning React.js.
-
--✈️MTL,QC,Canada ➡️Charlotte,NC,USA
+- ✈️MTL,QC,Canada ➡️Charlotte,NC,USA
 
 Stackoverflow: https://stackoverflow.com/users/13334023/weltgeist<br>
 Linkedin: https://www.linkedin.com/in/narcissesamuel/<br>
