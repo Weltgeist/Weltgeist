@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning React.js.
 
 Stackoverflow: https://stackoverflow.com/users/13334023/weltgeist
+
 Linkedin: https://www.linkedin.com/in/narcissesamuel/
+
 email: narcisse118@gmail.com
 
 ### Overview
