@@ -5,6 +5,8 @@
 - ⚡ Fun fact: I'm a cross-country cyclist & I have biked MTL-NYC, MTL-TORONTO, CLT-ATL, CLT-DC.
 - 🌱 I’m currently learning React.js.
 
+-✈️MTL,QC,Canada ➡️Charlotte,NC,USA
+
 Stackoverflow: https://stackoverflow.com/users/13334023/weltgeist<br>
 Linkedin: https://www.linkedin.com/in/narcissesamuel/<br>
 Email: narcisse118@gmail.com
