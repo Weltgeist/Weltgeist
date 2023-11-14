@@ -7,7 +7,8 @@
 - ✈️ MTL,QC,Canada ➡️Charlotte,NC,USA
 
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
+  
 Stackoverflow: https://stackoverflow.com/users/13334023/weltgeist<br>
 Linkedin: https://www.linkedin.com/in/narcissesamuel/<br>
 Email: narcisse118@gmail.com<br>
