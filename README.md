@@ -4,7 +4,7 @@
 - 💬 Ask me about robotics(Java,Python,C#).I do a lot of pro-bono robotics or/and I always have a personal robotics project happening.  
 - ⚡ Fun fact: I'm a cross-country cyclist & I have biked MTL-NYC, MTL-TORONTO, CLT-ATL, CLT-DC.
 - 🌱 I’m currently learning React.js + Raspberry Pi. 
-- ✈️ MTL,QC,Canada ➡️Charlotte,NC,USA
+- ✈️ Montreal-QC🇨🇦 ➡️Charlotte-NC🇺🇸
 
 
 ### 📫 How to reach me:
