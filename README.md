@@ -25,6 +25,7 @@ Insta: https://www.instagram.com/samuel.narcisse.54/
 -->
 
 Feel free to reach out or network!✨⚡✨
+Even just to share a coding article on DEV.to
 
 
 
